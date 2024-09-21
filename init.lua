@@ -1,0 +1,15 @@
+require("core.options")
+require("core.keymaps")
+
+-- 插件
+require("plugins.plugins-setup")
+require("plugins.neo-tree")
+require("plugins.lualine")
+require("plugins.treesitter")
+require("plugins.lsp")
+require("plugins.cmd")
+require("plugins.comment")
+require("plugins.autopairs")
+require("plugins.bufferline")
+require("plugins.gitsigns")
+require("plugins.telescope")
